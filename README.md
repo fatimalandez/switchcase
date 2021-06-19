@@ -1,0 +1,2 @@
+# switchcase
+code in loop
